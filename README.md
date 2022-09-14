@@ -1,3 +1,7 @@
+# Animcal Crossing Wiki
+
+This is a React project which uses the [ACNH API](http://acnhapi.com/) to provide information related to Animal Crossing: New Horizons.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
